@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+```
+flutter run -d chrome --web-renderer html
+flutter run -d chrome --web-renderer canvaskit
+flutter run -d chrome --web-renderer auto
+
+
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
