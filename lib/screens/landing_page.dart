@@ -219,7 +219,6 @@ class Right extends StatelessWidget {
       ),
       child: ClipRect(
         clipBehavior: Clip.hardEdge,
-        
         child: Image.network(
             "https://img.freepik.com/free-photo/image-handsome-caucasian-man-party-suit-smiling-pleased-attend-formal-event-standing-white-background_1258-64650.jpg?w=996&t=st=1662877291~exp=1662877891~hmac=bb00d78672d67a8bf26cbadf67d3843733e4aeccdeb70bd8640184f2c4cb3909"),
       ),
